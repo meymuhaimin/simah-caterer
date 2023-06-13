@@ -104,7 +104,7 @@ p {
 
 }
 
-@media (max-width: 800px){
+@media (max-width: 900px){
     .even {
         flex-direction: column;
         height: 100%;

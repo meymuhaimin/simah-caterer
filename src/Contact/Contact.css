@@ -1,0 +1,23 @@
+.contact-section{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15rem;
+}
+
+.contact-text{
+    flex: 1;
+    padding: 4rem;
+    font-size: 3rem;
+    color: black;
+    text-align: right;
+    border-right: 5px solid #f71e29;
+}
+
+.contact-button {flex: 1;
+    padding: 4rem;
+    font-size: 3rem;
+    color: white;
+    text-align: left;
+}

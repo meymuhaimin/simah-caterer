@@ -8,7 +8,7 @@ const Home = () => {
       <div className="even">
         <img src={"././about-us-image/our-story.jpeg"} alt="tigr" />
         <div className="text">
-          <h1 data-text="Our Story"></h1>
+          <h1 data-text="Our Story"> </h1>
           <p>
             We are a premier catering service, proudly founded 12 years ago in
             the beautiful city of Karak. Over the years, we have established
@@ -22,7 +22,7 @@ const Home = () => {
       <div className="odd">
         <img src={"././about-us-image/dome.jpeg"} alt="tigr" />
         <div className="text">
-          <h1 data-text="Traditional Delights"></h1>
+          <h1 data-text="Traditional Delights"> </h1>
           <p>
             At our catering service, we believe that great food is the heart of
             any memorable event. Our team of talented chefs and culinary experts
@@ -42,7 +42,7 @@ const Home = () => {
       <div className="even">
         <img src={"././about-us-image/buffet.jpeg"} alt="tigr" />
         <div className="text">
-          <h1 data-text="Personalized Service"></h1>
+          <h1 data-text="Personalized Service"> </h1>
           <p>
             We understand that every event is unique, and we take pride in our
             ability to deliver personalized service tailored to your specific
@@ -59,7 +59,7 @@ const Home = () => {
       <div className="odd">
         <img src={"././about-us-image/pelamin.jpeg"} alt="tigr" />
         <div className="text">
-          <h1 data-text="Unforgettable Events"></h1>
+          <h1 data-text="Unforgettable Events"> </h1>
           <p>
             Over the years, we have had the privilege of being part of countless
             unforgettable events. From intimate gatherings to large-scale
@@ -78,7 +78,7 @@ const Home = () => {
       <div className="even">
         <img src={"././about-us-image/staff.jpeg"} alt="tigr" />
         <div className="text">
-          <h1 data-text="Professional Staff"></h1>
+          <h1 data-text="Professional Staff"> </h1>
           <p>
             Our success is attributed to our team of professional and
             experienced staff. From our chefs to our event planners and service
